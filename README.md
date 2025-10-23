@@ -1,5 +1,5 @@
 **MOVIEMANIC**
-A responsive and visually appealing movie listing website built with React.js, featuring sorting, filtering, and detailed movie descriptions.
+A responsive and visually appealing movie listing website built with React.js(vite), featuring sorting, filtering, and detailed movie descriptions.
 
 **Features**
 
